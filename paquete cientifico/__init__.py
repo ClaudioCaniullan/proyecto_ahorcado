@@ -1,0 +1,1 @@
+from .funciones_ahorcado import random_word, display_board
