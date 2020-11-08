@@ -34,7 +34,7 @@ def run():
             for idx in letter_indexes: # la letra del usuario es replazada en hidenword
                 hidden_word[idx] = current_letter
 
-            # vaciamos esta lista para volver a comenzar el while, ESTUDIAR
+            # vaciamos esta lista para volver a comenzar el while
             letter_indexes = []
 
         # encontrar al ganador, terminar el juego // INTENTAR MODIFICAR ESTO POR UN IF/ELSE
